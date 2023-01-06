@@ -27,4 +27,4 @@ then move to project folder and install the required libraries with
 
 In case you want to run it on jupyter, remember to activate the conda environment before installing the requirements.
 
-You can also upload the project on colab.
+You can also upload the project with all the data on colab and run it.
