@@ -2,7 +2,7 @@
 
 This repo contains the project for the course of Geospatial analysis and representation for data science course (UniTn 2022/23).
 
-You can find the whole project on https://alessia96.github.io/geospatial.github.io/
+You can find the whole project on https://alessia96.github.io/geospatial2022/
 ####
 
 ### The project
@@ -17,7 +17,7 @@ It consists in 4 main sections:
 ### How to run
 To run the project clone the repository with 
     
-    git clone https://github.com/alessia96/geospatial.github.io.git
+    git clone https://github.com/alessia96/geospatial2022
 
 then move to project folder and install the required libraries with
 
