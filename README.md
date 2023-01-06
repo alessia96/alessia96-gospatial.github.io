@@ -3,7 +3,18 @@
 This repo contains the project for the course of Geospatial analysis and representation for data science course (UniTn 2022/23).
 
 You can find the whole project on https://alessia96.github.io/geospatial.github.io/
+####
 
+### The project
+The main goal of the project is to analyse the crime of the city of Chicago, Illinois.
+
+It consists in 4 main sections:
+1. Exploratory Data Analysis (EDA)
+2. Network Analysis
+3. Geospatial Analysis
+4. Spatial Inequalities
+
+### How to run
 To run the project clone the repository with 
     
     git clone https://github.com/alessia96/geospatial.github.io.git
