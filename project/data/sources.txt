@@ -1,0 +1,9 @@
+Data sources
+
+USA:
+https://www.kaggle.com/datasets/enverozarslan/usa-states-crime-durg-use-mental-health-more?resource=download
+
+Chicago
+https://data.cityofchicago.org/Public-Safety/Crimes-2021/dwme-t96c
+https://chicagohealthatlas.org.download
+https://github.com/dssg/411-on-311/blob/master/data/chicago-community-areas.csv
